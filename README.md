@@ -22,7 +22,7 @@ Campo para inserir login e senha.
 Botão de login, mas sem redirecionamento específico.
 
 ## Como Utilizar Este Projeto
-git clone https://github.com/Felipe020507/projeto-jogos-single-player.git](https://github.com/Fcasale-dev/projeto-jogo-single-player
+git clone https://github.com/Fcasale-dev/projeto-jogo-single-player
 
 ## Licença
 Este projeto está licenciado sob Felipe Casale. 
